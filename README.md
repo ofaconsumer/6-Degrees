@@ -1,2 +1,2 @@
 # 6-Degrees
-The VR headset for everyone.
+## The VR headset for everyone.
